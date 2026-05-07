@@ -3,7 +3,7 @@ const http      = require('http');
 const WebSocket = require('ws');
 const path      = require('path');
 const fs        = require('fs');
-const { v4: uuid } = require('uuid');
+const uuid = () => require('crypto').randomUUID();
 const manager   = require('./mqttManager');
 const email     = require('./emailnotifier');
 
