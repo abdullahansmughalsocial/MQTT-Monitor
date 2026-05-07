@@ -1,0 +1,55 @@
+[
+  {
+    "id": "admin-default",
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "displayName": "Administrator",
+    "allowedPages": [
+      "dashboard",
+      "stats",
+      "alarms",
+      "alarm-trend",
+      "sites",
+      "mqtt-settings",
+      "email-settings",
+      "user-management",
+      "import-template",
+      "remove-template",
+      "clear-unacknowledged",
+      "clear-resolved",
+      "db-settings"
+    ],
+    "createdAt": "2026-04-17T00:00:00.000Z"
+  },
+  {
+    "id": "ba93d103-7900-4ba0-a2fb-92dc6688e5e4",
+    "username": "Abdullah",
+    "password": "123",
+    "role": "viewer",
+    "displayName": "Abdullah",
+    "allowedPages": [
+      "dashboard",
+      "stats",
+      "alarms",
+      "alarm-trend"
+    ],
+    "createdAt": "2026-04-20T09:37:51.611Z"
+  },
+  {
+    "id": "fa85807c-4a9c-47ed-9869-02185228f394",
+    "username": "Ali",
+    "password": "123",
+    "role": "viewer",
+    "displayName": "Ali",
+    "allowedPages": [
+      "dashboard",
+      "stats",
+      "alarms",
+      "alarm-trend",
+      "import-template",
+      "clear-resolved"
+    ],
+    "createdAt": "2026-04-20T10:07:16.217Z"
+  }
+]

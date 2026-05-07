@@ -1,0 +1,25 @@
+{
+  "host": "b-e6439b20-3a80-4688-86b3-0658535e5f2f-1.mq.ap-south-1.amazonaws.com",
+  "port": 8883,
+  "protocol": "mqtts",
+  "clientIdPrefix": "Abdullah_Ans",
+  "username": "Maria_123",
+  "password": "Maria_1234567",
+  "rejectUnauthorized": false,
+  "email": {
+    "enabled": false,
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+      "secure": false,
+      "user": "abdullahansmughal@gmail.com",
+      "pass": "sdpv ksjc eguq asqi"
+    },
+    "from": "MQTT<abdullahansmughal@gmail.com>",
+    "to": [],
+    "onAlarm": true,
+    "onResolve": true,
+    "onAck": false,
+    "siteEmails": {}
+  }
+}

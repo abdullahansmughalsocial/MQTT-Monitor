@@ -1,0 +1,100 @@
+[
+  {
+    "id": "44139f20-e3a1-4ae4-aa97-cab441682a31",
+    "createdAt": "2026-04-04T11:42:52.911Z",
+    "name": "Packages Mall Lahore",
+    "description": "",
+    "topics": [
+      {
+        "id": "5c22cf6a-7f5d-4c11-9f29-6b6053fbf162",
+        "label": "PLC1",
+        "topic": "Packages",
+        "timeout": 60
+      },
+      {
+        "id": "014e9725-db9e-4cce-b772-751f84f00378",
+        "label": "PLC2",
+        "topic": "Packages01",
+        "timeout": 60
+      }
+    ],
+    "mqttOverride": null,
+    "snapshotLimit": 5
+  },
+  {
+    "id": "8685be1b-0a31-440d-bf94-488eba0d8364",
+    "createdAt": "2026-04-04T12:21:04.641Z",
+    "name": "Suraj Cotton Lahore",
+    "description": "",
+    "topics": [
+      {
+        "id": "e4e5b55d-cf6f-47c5-b05b-170323234c49",
+        "label": "PLC",
+        "topic": "SurajCotton",
+        "timeout": 60
+      }
+    ],
+    "mqttOverride": null
+  },
+  {
+    "id": "8f2b3ffd-323c-42e6-bf89-c5d77b0a92ad",
+    "createdAt": "2026-04-04T12:21:55.968Z",
+    "name": "Friends Cold Storage",
+    "description": "",
+    "topics": [
+      {
+        "id": "cc31c576-5e26-4854-b132-0c37170f40bf",
+        "label": "PLC",
+        "topic": "FreindsCold_Storage",
+        "timeout": 60
+      }
+    ],
+    "mqttOverride": null,
+    "snapshotLimit": 5
+  },
+  {
+    "id": "bd1b1e17-e82f-435c-b8b7-538eba28de4f",
+    "createdAt": "2026-04-04T12:25:18.896Z",
+    "name": "Prime Cold Storage",
+    "description": "",
+    "topics": [
+      {
+        "id": "56381b41-6a15-44b4-8c3f-9d7de38c33f4",
+        "label": "PLC",
+        "topic": "PrimeCold",
+        "timeout": 60
+      }
+    ],
+    "mqttOverride": null
+  },
+  {
+    "id": "4787c66d-9d21-433c-b7b9-955df39eca41",
+    "createdAt": "2026-04-04T12:28:40.848Z",
+    "name": "East Rice Area1",
+    "description": "",
+    "topics": [
+      {
+        "id": "7f6203c8-7c3b-4e65-a3d9-40c66ab366cd",
+        "label": "PLC",
+        "topic": "1.5.0/EastRice_Area1/TagValues",
+        "timeout": 60
+      }
+    ],
+    "mqttOverride": null
+  },
+  {
+    "id": "f4cce3ab-0b17-4655-8c18-e98bc80e5f89",
+    "createdAt": "2026-04-04T12:29:12.375Z",
+    "name": "East Rice Area2",
+    "description": "",
+    "topics": [
+      {
+        "id": "f916d623-d21c-43ad-a97c-60c57ed7fa7d",
+        "label": "PLC",
+        "topic": "1.5.0/EastRice_Area3/TagValues",
+        "timeout": 60
+      }
+    ],
+    "mqttOverride": null
+  }
+]

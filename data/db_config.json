@@ -1,0 +1,17 @@
+{
+  "enabled": false,
+  "activeProfile": "68c80235-b3ad-4700-bff8-744f9bc87192",
+  "profiles": [
+    {
+      "id": "68c80235-b3ad-4700-bff8-744f9bc87192",
+      "createdAt": "2026-04-25T05:31:21.787Z",
+      "name": "Local MongoDB",
+      "uri": "mongodb://localhost:27017",
+      "database": "mqtt_monitor",
+      "description": ""
+    }
+  ],
+  "retentionDays": 30,
+  "defaultLimit": 500,
+  "moduleLoaded": true
+}
